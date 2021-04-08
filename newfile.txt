@@ -1,2 +1,3 @@
 this is a test file, second run through git tut
+again testing, 3rd time
 use the vi commands to naviagate through files, i have shortcuts of the vi commands saved onto my git notes
