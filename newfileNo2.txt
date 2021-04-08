@@ -1,3 +1,7 @@
 new file to be rebased or merged?
 new line, doing well so far
-afternoon programmin
+afternoon programmin and evening
+new adds: this is a test file, second run through git tut
+this is a test filse, second run through git tut
+use the vi commands to naviagate through files, i have shortcuts of the vi commands saved onto my git notes
+use the vi commands to naviagate through files, i have shortcuts of the vi commands saved onto my git notes
